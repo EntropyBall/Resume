@@ -9,14 +9,20 @@ body {
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    background-color: var(--theme-light-bgColor);
+    color: var(--theme-light-color);
 }
 
 h1 {
     font-size: 3.5rem;
+    font-weight: bold;
 }
 
 h2 {
-    font-size: 2.5rem;
+    font-size: 2.25rem;
+    text-align: start;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
 }
 
 h3 {
@@ -32,15 +38,20 @@ h4 {
     text-transform: uppercase;
 }
 
-.contact {
+.intro {
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
-.info {
-    background-color: aquamarine;
+.intro > article {
+    background-color: rgb(146, 127, 255);
     border: 1px solid red;
     flex: 1;
+}
 
+.intro > article > h3 {
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 0.3rem;
 }
