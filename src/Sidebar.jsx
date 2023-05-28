@@ -1,5 +1,6 @@
 import React from "react";
 
+/** Side bar */
 const Sidebar = () => {
     return (
         <aside>
