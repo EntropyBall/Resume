@@ -7,6 +7,7 @@ const Sidebar = () => {
             <p>Nom prénom</p>
             <img src="" alt="" />
             {/* SKills */}
+            {/* Languages */}
         </aside>
     );
 };
