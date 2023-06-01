@@ -9,8 +9,6 @@ body {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background-color: var(--theme-light-bgColor);
-    color: var(--theme-light-color);
 }
 
 h1 {
