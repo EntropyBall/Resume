@@ -1,9 +1,9 @@
 import React from "react";
 import Contact from "./Contact";
-import Experience from "./Experience";
-import Formation from "./Formation";
+import Skill from "./Skill";
+import Hobbie from "./Hobbie";
 
-/** Side bar */
+/** Side bar with children */
 const Sidebar = () => {
     return (
         <aside>
@@ -13,10 +13,10 @@ const Sidebar = () => {
             {/* Languages */}
             {/* Information */}
             <Contact />
-            {/* Experiences */}
-            <Experience />
-            {/* Formation */}
-            <Formation />
+            {/* Skills */}
+            <Skill />
+            {/* Hobbies */}
+            <Hobbie />
         </aside>
     );
 };
