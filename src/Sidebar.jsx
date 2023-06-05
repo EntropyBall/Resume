@@ -9,7 +9,6 @@ const Sidebar = () => {
         <aside>
             <p>Nom prénom</p>
             <img src="" alt="" />
-            {/* Information */}
             <Contact />
             {/* Skills */}
             <Skill />
