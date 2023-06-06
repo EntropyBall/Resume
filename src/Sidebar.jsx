@@ -10,7 +10,6 @@ const Sidebar = () => {
             <p>Nom prénom</p>
             <img src="" alt="" />
             <Contact />
-            {/* Skills */}
             <Skill />
             {/* Hobbies */}
             <Hobbie />
