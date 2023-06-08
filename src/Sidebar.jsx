@@ -11,7 +11,6 @@ const Sidebar = () => {
             <img src="" alt="" />
             <Contact />
             <Skill />
-            {/* Hobbies */}
             <Hobbie />
         </aside>
     );
