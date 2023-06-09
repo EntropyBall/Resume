@@ -7,7 +7,6 @@ import Formation from "./Formation";
 const MainBody = () => {
     return (
         <>
-            {/* Experiences */}
             <Experience />
             {/* Formation */}
             <Formation />
