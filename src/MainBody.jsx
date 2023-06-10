@@ -8,7 +8,6 @@ const MainBody = () => {
     return (
         <>
             <Experience />
-            {/* Formation */}
             <Formation />
         </>
     );
