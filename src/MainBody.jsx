@@ -1,6 +1,4 @@
 import React from "react";
-import Skill from "./Skill";
-import Hobbie from "./Hobbie";
 import Experience from "./Experience";
 import Formation from "./Formation";
 
