@@ -1,6 +1,8 @@
 {
     "experiences": {},
-    "projets": {},
+    "projets": {
+        "profesionals": {}
+    },
     "diplômes": {},
     "intérêts": {}
 }
