@@ -3,6 +3,7 @@ import "./App.css";
 import MainBody from "./MainBody";
 import Sidebar from "./Sidebar";
 
+/* Maybe reforged it to astro */
 function App() {
     return (
         <>
